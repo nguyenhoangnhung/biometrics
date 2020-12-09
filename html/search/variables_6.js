@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['im_164',['im',['../namespacecrossing__number.html#af5a937b2d19ba2ab9b9ef621540942da',1,'crossing_number.im()'],['../namespacefrequency.html#a17f55e5a2b4dab041f142fef8981c913',1,'frequency.im()'],['../namespacegabor.html#a3f9fcba8c2e9b5d874f3f70d9f1a877e',1,'gabor.im()'],['../namespacehough.html#a43bc3107ae5168e844e701dd90c81af4',1,'hough.im()'],['../namespacenormalization.html#a24a302a9b55c0c89e763ebeda2451cc9',1,'normalization.im()'],['../namespaceorientation.html#a824938cc9c9d4fbbcf97de12fc7962a4',1,'orientation.im()'],['../namespacepoincare.html#abd4f762d60694d3faef647726a9e3f94',1,'poincare.im()'],['../namespacesegmentation.html#a1f28f90346fa225010c5040337136533',1,'segmentation.im()'],['../namespacesobel__showcase.html#a660e7d13a590c3314d8f0b13174b115b',1,'sobel_showcase.im()'],['../namespacethining.html#a5c32683d991c51e8fd9eeb8b29136131',1,'thining.im()']]]
+];

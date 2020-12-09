@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['parser_168',['parser',['../namespacecrossing__number.html#a9f40f5b23597b87886e1a5ce95c23a62',1,'crossing_number.parser()'],['../namespacefrequency.html#aa3c51ac1bbefb7ad73294a7549e9aa35',1,'frequency.parser()'],['../namespacegabor.html#a34f0bb26f42f5b7ed8253f1b0224dd05',1,'gabor.parser()'],['../namespacehough.html#a3ae2893c2a4718735eb7dcdb48495300',1,'hough.parser()'],['../namespacenormalization.html#abf9e97b223bd8acca341e59542ad1103',1,'normalization.parser()'],['../namespaceorientation.html#afd82c96d73f3d6ef9a07f083a450c2a0',1,'orientation.parser()'],['../namespacepoincare.html#a40d7bd6a2816364275fbebdbdc759b86',1,'poincare.parser()'],['../namespacesegmentation.html#a007a849d2f0ae97c4f305387e7f98db9',1,'segmentation.parser()'],['../namespacesobel__showcase.html#a12ca1831142a9dc96f4579a43d71ad0f',1,'sobel_showcase.parser()'],['../namespacethining.html#a08fa0bd286d73bb064adbbba109d51bd',1,'thining.parser()']]]
+];
